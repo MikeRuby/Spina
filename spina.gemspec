@@ -26,13 +26,10 @@ Gem::Specification.new do |s|
   s.add_dependency 'jquery-fileupload-rails'
   s.add_dependency 'carrierwave'
   s.add_dependency 'mini_magick'
-  s.add_dependency 'cancancan'
   s.add_dependency 'ancestry'
   s.add_dependency 'breadcrumbs_on_rails'
   s.add_dependency 'turbolinks', '~> 5'
   s.add_dependency 'kaminari'
   s.add_dependency 'globalize', '~> 5.1.0.beta1'
   s.add_dependency 'rack-rewrite', '~> 1.5.0'
-  s.add_dependency 'bourbon'
-  s.add_dependency 'neat'
 end
